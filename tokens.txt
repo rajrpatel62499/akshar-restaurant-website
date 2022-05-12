@@ -1,2 +1,11 @@
 0e50cde9-ea7b-4afc-a116-b8d09edcd13b - 2072 Aurora Blvd | Regina, SK
 d8f183b2-24b8-421d-9ae1-13dddea3ca43 - 1625 Broad
+
+-----------------------------------
+akshar tokens 
+    data-glf-cuid="c6c573e3-7529-45c2-b58c-d84f0e946d7f" 
+    data-glf-ruid="657f7fc3-747c-4fb9-b43f-6a29ff9d773a"
+<span class="glf-button" 
+    data-glf-cuid="c6c573e3-7529-45c2-b58c-d84f0e946d7f" 
+    data-glf-ruid="657f7fc3-747c-4fb9-b43f-6a29ff9d773a" > See MENU & Order</span>
+<script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
