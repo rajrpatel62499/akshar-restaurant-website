@@ -1,0 +1,10 @@
+
+Inside Button 
+=========================================
+<span class="glf-button-default glf-button "
+    style='background-color:#ef8b17; color:#FFFFFF !important; font-weight:bold; font-size:18px; padding:10px; border-radius:3px; font-family:"Arial", sans-serif; '
+    data-glf-cuid=""
+    data-glf-ruid="d8f183b2-24b8-421d-9ae1-13dddea3ca43"
+    data-location="d8f183b2-24b8-421d-9ae1-13dddea3ca43">Order
+    Online!</span>
+
