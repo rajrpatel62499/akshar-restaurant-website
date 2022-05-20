@@ -9,3 +9,18 @@ akshar tokens
     data-glf-cuid="c6c573e3-7529-45c2-b58c-d84f0e946d7f" 
     data-glf-ruid="657f7fc3-747c-4fb9-b43f-6a29ff9d773a" > See MENU & Order</span>
 <script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
+
+------------------------
+Kirtan Personal account 
+data-glf-cuid="6ad27346-8784-4691-b35b-fa4f80d82280"
+data-glf-ruid="021ff289-e201-4380-aada-09272ee3f483"
+
+<span class="glf-button" 
+data-glf-cuid="6ad27346-8784-4691-b35b-fa4f80d82280" 
+data-glf-ruid="021ff289-e201-4380-aada-09272ee3f483" > See MENU & Order</span>
+<span 
+class="glf-button reservation" 
+data-glf-cuid="6ad27346-8784-4691-b35b-fa4f80d82280" 
+data-glf-ruid="021ff289-e201-4380-aada-09272ee3f483" 
+data-glf-reservation="true" > Table Reservation</span>
+<script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
