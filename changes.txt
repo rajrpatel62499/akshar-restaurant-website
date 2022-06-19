@@ -1,2 +1,2 @@
 1. remove 2 location, only put 1 and make it center. 
-2. 
+2. remove popup
